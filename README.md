@@ -12,7 +12,7 @@ class PatrickProfile:
         self.interests = ', '.join(['gym', 'code'] * 10)  
         self.code = {
             'languages': ['Python', 'Java', 'HTML', 'CSS'],
-            'libraries': ['Tkinter', 'CustomTkinter', 'Pandas', 'NumPy', 'Selenium', 'Beautiful Soup'],
+            'libraries': ['PyTorch', 'Tkinter', 'CustomTkinter', 'Pandas', 'NumPy', 'Selenium', 'Beautiful Soup'],
             'projects': [
                 'API Tools (Google Distance Matrix, Email Automation)',
                 'Graphs for Financial Stock Historical Prices',
@@ -20,6 +20,7 @@ class PatrickProfile:
                 'Savings Calculators (GUI using Tkinter)',
                 'Web Scrapers',
                 'Desktop Applications',
+                'AI/ML models
             ],
             'tools': ['GIT', 'MySQL', 'MySQL Workbench', 'DataGrip', 'Jupyter Notebook'],
         }
