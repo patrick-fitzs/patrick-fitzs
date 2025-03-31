@@ -20,11 +20,11 @@ class PatrickProfile:
                 'Savings Calculators (GUI using Tkinter)',
                 'Web Scrapers',
                 'Desktop Applications',
-                'AI/ML models
+                'AI Chatbots',
+                'AI/ML models'
             ],
             'tools': ['GIT', 'MySQL', 'MySQL Workbench', 'DataGrip', 'Jupyter Notebook'],
         }
-        self.architecture = ['SPA', 'OOP', 'Client-Server']  # Include architectures relevant to your projects
 
     def __str__(self):
         return f"{self.name} | Aspiring Developer specializing in {', '.join(self.code['languages'])}"
