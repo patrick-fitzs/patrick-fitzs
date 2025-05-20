@@ -23,7 +23,7 @@ class PatrickProfile:
                 'AI Chatbots',
                 'AI/ML models'
             ],
-            'tools': ['GIT', 'MySQL', 'MySQL Workbench', 'DataGrip', 'Jupyter Notebook'],
+            'tools': ['GIT', 'MySQL', 'MySQL Workbench', 'DataGrip', 'Jupyter Notebook', 'MongoDB'],
         }
 
     def __str__(self):
