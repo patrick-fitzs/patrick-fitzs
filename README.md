@@ -3,7 +3,7 @@
 ## Hi there 👋
 ![](https://komarev.com/ghpvc/?username=patrick-fitzs)
 ```python
-class PatrickProfile:
+class patricksProfile:
 
     def __init__(self):
         self.username = 'patrick-fitzs'
@@ -31,7 +31,7 @@ class PatrickProfile:
 
 
 if __name__ == '__main__':
-    me = PatrickProfile()
+    me = patricksProfile()
     print(me)
 ```
 
