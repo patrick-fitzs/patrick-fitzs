@@ -11,7 +11,7 @@ class patricksProfile:
         self.position = 'Computer science student'
         self.interests = ', '.join(['gym', 'code'] * 10)  
         self.code = {
-            'languages': ['Python', 'Java', 'HTML', 'CSS'],
+            'languages': ['Python', 'JavaScript', 'HTML', 'CSS'],
             'libraries': ['PyTorch', 'Tkinter', 'CustomTkinter', 'Pandas', 'NumPy', 'Matplotlib', 'Sklearn', 'SciPy' 'Selenium', 'Beautiful Soup'],
             'projects': [
                 'API Tools (Google Distance Matrix, Email Automation)',
