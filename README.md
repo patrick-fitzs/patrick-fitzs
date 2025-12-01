@@ -1,6 +1,6 @@
   <img align="right" alt="Coding" width="400" src="https://pin.it/7tEyJxcXu](https://i.pinimg.com/originals/21/7d/a2/217da299cc918fad9b76eb99e4bb75b3.gif">
 
-## Hi there 👋
+# Hi there 👋
 ![](https://komarev.com/ghpvc/?username=patrick-fitzs)
 ```python
 class patricksProfile:
