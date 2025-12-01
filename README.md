@@ -8,26 +8,60 @@ class patricksProfile:
     def __init__(self):
         self.username = 'patrick-fitzs'
         self.name = 'Patrick Fitzsimons'
-        self.position = 'Computer science student'
-        self.interests = ', '.join(['gym', 'code'] * 10)  
+        self.position = 'Software Developer & Data Science Student'
+
+        self.interests = ', '.join(['gym', 'code', 'AI', 'cloud', 'finance'])
+
         self.code = {
-            'languages': ['Python', 'JavaScript', 'HTML', 'CSS'],
-            'libraries': ['PyTorch', 'Tkinter', 'CustomTkinter', 'Pandas', 'NumPy', 'Matplotlib', 'Sklearn', 'SciPy' 'Selenium', 'Beautiful Soup'],
-            'projects': [
-                'API Tools (Google Distance Matrix, Email Automation)',
-                'Graphs for Financial Stock Historical Prices',
-                'Python Games (Button Tap Counter)',
-                'Savings Calculators (GUI using Tkinter)',
-                'Web Scrapers',
-                'Desktop Applications',
-                'AI Chatbots',
-                'AI/ML models'
+            'languages': [
+                'Python', 'JavaScript', 'TypeScript', 'SQL', 'Java', 'R', 'HTML', 'CSS'
             ],
-            'tools': ['GIT', 'MySQL', 'MySQL Workbench', 'DataGrip', 'Jupyter Notebook', 'MongoDB'],
+
+            'frameworks': {
+                'backend': ['NestJS', 'Express.js', 'Flask', 'FastAPI'],
+                'frontend': ['React'],
+                'ml': ['PyTorch'],
+                'styling': ['Tailwind CSS']
+            },
+
+            'libraries': [
+                'Pandas', 'NumPy', 'scikit-learn', 'Matplotlib', 'SciPy',
+                'Selenium', 'BeautifulSoup', 'Requests'
+            ],
+
+            'runtime': ['Node.js'],
+
+            'tools': [
+                'Git', 'GitHub', 'Docker', 'npm', 'Swagger (OpenAPI)', 'Prisma',
+                'JWT', 'Firebase', 'Postman', 'MinIO', 'Google Cloud (GCF, GCS)',
+                'Heroku', 'CI/CD (GitHub Actions)'
+            ],
+
+            'databases': [
+                'PostgreSQL', 'MongoDB', 'MySQL'
+            ],
+
+            'projects': [
+                'Inventory & Order Management API — NestJS, PostgreSQL, Docker, Swagger, TypeScript',
+                'Node.js + Express + MongoDB full-stack app (in progress)',
+                'Web Scraper Automation Tools — Selenium, BeautifulSoup, Docker',
+                'League of Legends Match Predictor — PyTorch, scikit-learn',
+                'Interactive AI Chat Tool — Flask, GPT-4, Heroku',
+                'API Automation Tools (Distance Matrix, Email Automation)',
+                'Financial Stock Graphing Tools',
+                'Python Games (Button Tap Counter)',
+                'Savings Calculators (Tkinter GUI)',
+                'Desktop Applications',
+                'AI/ML Models'
+            ]
         }
 
     def __str__(self):
-        return f"{self.name} | Aspiring Developer specializing in {', '.join(self.code['languages'])}"
+        return (
+            f"{self.name} | Full-Stack Developer & Data Science Student "
+            f"specializing in {', '.join(self.code['languages'])}"
+        )
+
 
 
 if __name__ == '__main__':
