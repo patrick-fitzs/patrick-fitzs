@@ -88,4 +88,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patrick-fitzs)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Patricks GitHub stats](https://github-readme-stats.vercel.app/api?username=patrick-fitzs)](https://github.com/patrick-fitzs/github-readme-stats)
+[![Patricks GitHub stats](https://github-readme-stats.vercel.app/api?username=patrick-fitzs)](https://github.com/anuraghazra/github-readme-stats)
