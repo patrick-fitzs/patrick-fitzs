@@ -84,10 +84,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=patrick-fitzs&v=1)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=patrick-fitzs)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patrick-fitzs&v=1)](https://github.com/anuraghazra/github-readme-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=patrick-fitzs&v)](https://git.io/streak-stats)
 
