@@ -84,7 +84,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=patrick-fitzs&v)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=patrick-fitzs)](https://git.io/streak-stats)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
