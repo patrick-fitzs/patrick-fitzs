@@ -126,4 +126,4 @@ Here are some ideas to get you started:
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
 
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patrick-fitzs&layout=compact)
