@@ -42,6 +42,7 @@ class patricksProfile:
             ],
 
             'projects': [
+                'Client analytics portal',
                 'Inventory & Order Management API — NestJS, PostgreSQL, Docker, Swagger, TypeScript',
                 'Node.js + Express + MongoDB full-stack app (in progress)',
                 'Web Scraper Automation Tools — Selenium, BeautifulSoup, Docker',
@@ -51,7 +52,6 @@ class patricksProfile:
                 'Financial Stock Graphing Tools',
                 'Python Games (Button Tap Counter)',
                 'Savings Calculators (Tkinter GUI)',
-                'Desktop Applications',
                 'AI/ML Models'
             ]
         }
